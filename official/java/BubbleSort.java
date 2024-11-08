@@ -39,6 +39,7 @@ public class BubbleSort {
                     swapped = true;
                 }
             }
+            
             // If no elements were swapped, array is already sorted
             if (!swapped) {
                 break;
